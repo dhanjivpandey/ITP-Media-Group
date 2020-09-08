@@ -1,0 +1,30 @@
+Unzip zip folder and follow bellow given step
+
+1. Create mongodb database name of : ITP_test
+2. Create : collection name of : test
+3. Import mongodb database. data.tsv
+4. go to unzip folder through cmd and run : npm install
+5. Run : npm install
+6. Run : npm start
+7. Open url : http://localhost:8080/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
